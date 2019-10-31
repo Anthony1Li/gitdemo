@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-ab
+a
+b
 c
 d
 f
 g
 h
-j
-sd=======
-ab
-c
-d
-f
-g
-h
-j
->>>>>>> feature3
+
